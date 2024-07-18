@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AnT1cmPfZJFHUe1chv+b89nz9GnotAYET0PaarnPyP/YZcRa/XGr4wnF+aAzSxv+f1+7J7WuzmP9UkZB0wdasw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dn478\\Downloads\\Snow\\Snow\\Snow\\Snow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dn478\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dn478\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dn478\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dn478\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
